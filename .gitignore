@@ -9,8 +9,8 @@ ENV/
 .env.*
 
 # Data files 
-data/
-*.csv
+
+BrentOilPrices.csv
 *.xlsx
 *.xls
 
